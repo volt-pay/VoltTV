@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Fireplace" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo.png", Cozy Fireplace
+https://cbs-pluto-uk.amagi.tv/playlist/plutotv-relax-uk/playlist.m3u8
+
+#EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo.png", Stingray Naturescape
+https://stingray-naturescape-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Nature" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo.png", NatureVision TV
+https://naturevision-naturevisiontv-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Space" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo.png", NASA Earth From Space
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logo.png", Loupe Art & Music
+https://loupe-samsungus.amagi.tv/playlist.m3u8
